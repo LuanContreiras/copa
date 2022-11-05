@@ -111,4 +111,3 @@ Após a aplicação ser iniciada você tem a opção de ou abrir pelo emulador d
 > Obs: Para a aplicação Web é necessário que você tenha uma variavel de ambiente. CLIENT_ID
 
 <hr>
-Vercel - []()
